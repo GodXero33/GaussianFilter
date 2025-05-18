@@ -44,8 +44,5 @@ image.onload = async () => {
 * `gassianFilter(imageData)` → returns blurred image (`<img>`)
 * `toBase64(image)` → returns base64 string of image
 
-## Live Demo
-
-<iframe src="https://godxero33.github.io/GaussianFilter/" width="100%" height="400" style="border:1px solid #ccc; border-radius: 6px;"></iframe>
-
+#### Live Demo [Gaussian Filter]([https://github.com/GodXero33](https://godxero33.github.io/GaussianFilter/))
 #### Made by [@GodXero](https://github.com/GodXero33)
